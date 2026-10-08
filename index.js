@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
-
+//i miss you
 document.addEventListener("DOMContentLoaded", function(){
   let col2 = document.querySelector('#morning2');
   col2.style.visibility = 'hidden';
